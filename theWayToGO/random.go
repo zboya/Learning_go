@@ -12,8 +12,8 @@ func main(){
 		fmt.Printf("%d / ",a)
 	}
 	for i:=0;i<5;i++ {
-		r:=rand.Intn(8)
-		fmt.Printf("%d / ",r)
+		r:=rand.Intn(999999999)
+		fmt.Printf("%d : ",r)
 	}
 	fmt.Println()
 	times:=int64(time.Now().Nanosecond())
