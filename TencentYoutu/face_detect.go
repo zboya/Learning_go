@@ -54,7 +54,7 @@ const (
 )
 
 func main() {
-	p,b64auth:=youtu.sign()
+	p,b64auth:=youtu.Sign()
 	println("plain_text:",p,"base64:",b64auth)
 
 	//Post value to api

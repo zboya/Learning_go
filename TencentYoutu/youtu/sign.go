@@ -25,7 +25,7 @@ const expired = 1000
 var debug bool = false
 
 
-func sign() (plain_text,b64 string) {
+func Sign() (plain_text,b64 string) {
 	//conf of sign
 	AppID:="1006405"
 	SecretID:="AKIDPdd5DfYl0oeuelGdvoBCECgIZ6En2u1i"
