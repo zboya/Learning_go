@@ -1,0 +1,140 @@
+[yoututest]
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test1", FaceID:"1349116567387963391", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116577709096959"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116582290325503"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116586703781887"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116591301787647"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116595715244031"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116600145477631"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116604508602367"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116609710587903"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116614174375935"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116619024039935"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test2", FaceID:"1349116623375630335", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116632766676991"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116637482123263"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116641979465727"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116646762020863"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116651276140543"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116655807037439"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116660254048255"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116664734613503"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116669248733183"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116673796407295"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test3", FaceID:"1349116678098714623", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116688394682367"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116692556480511"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116696869273599"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116701182066687"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116705645854719"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116710076088319"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116714556653567"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test4", FaceID:"1349116718869446655", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116729759956991"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116734240522239"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116738603646975"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116743218429951"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116747682217983"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116751961456639"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test5", FaceID:"1349116756490256383", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116768002572287"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116772634132479"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116777299247103"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116781628817407"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116786243600383"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116791160373247"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116795942928383"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116800591265791"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116805038276607"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116809787277311"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test6", FaceID:"1349116814231142399", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116825174081535"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116829755310079"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116834504310783"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116839186202623"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116843616436223"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116848231219199"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116853097660415"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test7", FaceID:"1349116857604440063", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116868402675711"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116873255485439"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116877551501311"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116882233393151"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116887200497663"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116891546845183"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116896111296511"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116900575084543"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116905105981439"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116909603323903"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test8", FaceID:"1349116914409996287", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116925463035903"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116930196307967"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116934441992191"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116938890051583"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116943372713983"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116947686555647"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test9", FaceID:"1349116951881908223", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116960960479231"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116965508153343"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116969905881087"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116974573092863"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116979254984703"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116983735549951"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116988585213951"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116993233551359"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349116998134595583"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117002817535999"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test10", FaceID:"1349117007409250303", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117016527667199"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117020959997951"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117025291665407"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117030107774975"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117034438393855"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117038820392959"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test11", FaceID:"1349117043363872767", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117053974413311"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117058488532991"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117063254310911"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117067801985023"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117071980560383"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117076511457279"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117081025576959"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test12", FaceID:"1349117085340467199", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117094499778559"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117098829348863"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117103276359679"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117107656261631"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117112237490175"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117116650946559"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117121081180159"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117127425064959"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117131771412479"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test13", FaceID:"1349117136499441663", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117145934528511"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117150485348351"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117154949136383"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117159463256063"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117163843158015"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117168508272639"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117174600499199"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117178862960639"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:1, FaceIDs:[]string{"1349117183192530943"}, ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:1, SucFace:1, PersonName:"", PersonID:"test14", FaceID:"1349117187648978943", ErrorCode:0, ErrorMsg:"OK"}
+rsp: youtu.AddFaceRsp{SessionID:"", Added:0, FaceIDs:[]string{""}, ErrorCode:0, ErrorMsg:"OK"}
+[yoututest]
+rsp: youtu.NewPersonRsp{SessionID:"", SucGroup:0, SucFace:0, PersonName:"", PersonID:"test1", FaceID:"", ErrorCode:-1302, ErrorMsg:"ERROR_PERSON_EXISTED"}

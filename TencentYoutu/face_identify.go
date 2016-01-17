@@ -30,7 +30,7 @@ func main() {
 	yt := youtu.Init(as, youtu.DefaultHost)
 
 	//
-	// groupID:="yoututest"
+	groupID:="yoututest"
 	picPath:="/home/bao/bao/work/listome/facedata/pic"
 
 	pic_datas:=getPicData(picPath)
@@ -39,25 +39,24 @@ func main() {
 		personName:=pic_data.name
 		pic_names:=pic_data.pics
 		var pic_last string
-		var path string
+
 		for _,pic_sig:=range pic_names {
 			pic_last=pic_sig
-			println(pic_last)
-			path=picPath+"/"+personName+"/"+pic_last
-			println(path)
-			bimage,err:=ioutil.ReadFile(path)
-			if err != nil {
-				fmt.Fprintf(os.Stderr, "ReadFile() failed: %s\n", err)
-				return
-			}
-			rsp, err := yt.DetectFace(bimage, false)
-			if err != nil {
-				fmt.Printf("DetectFace failed: %s\n", err)
-				return
-			}
-			fmt.Printf("rsp %#v\n", rsp)
 		}
-		
+		println(pic_last)
+		path:=picPath+"/"+personName+"/"+pic_last
+		println(path)
+		bimage,err:=ioutil.ReadFile(path)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "ReadFile() failed: %s\n", err)
+			return
+		}
+		rsp, err := yt.FaceIdentify(groupID,bimage)
+		if err != nil {
+			fmt.Printf("FaceIdentify failed: %s\n", err)
+			return
+		}
+		fmt.Printf("rsp %#v\n", rsp)
 	}
 	
 
